@@ -14,17 +14,17 @@
 
 ## 🚀 Projects
 
-### 🔹 Inquiro – Smart Academic Data Platform
-- 🧠 AI-powered student data querying using **LangChain + Groq LLM**
-- 🌐 Built with **MERN Stack**
-- 📊 Automated spreadsheet export + role-based authentication
-
----
-
 ### 🔹 EvolvEd – Placement Intelligence Platform
 - 📈 Converts student data into career readiness insights
 - 🧩 Behavioral tracking + performance analytics
 - 🎯 Generates recruiter-ready reports
+
+---
+
+### 🔹 Inquiro – Smart Academic Data Platform
+- 🧠 AI-powered student data querying using **LangChain + Groq LLM**
+- 🌐 Built with **MERN Stack**
+- 📊 Automated spreadsheet export + role-based authentication
 
 ---
 

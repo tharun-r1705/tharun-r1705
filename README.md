@@ -74,7 +74,7 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 tharunr1705@gmail.com
+- 📧 Gmail: tharunr1705@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/tharun-r1705/
 
 ---

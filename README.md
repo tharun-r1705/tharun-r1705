@@ -64,8 +64,6 @@
 
 # 📊 GitHub Stats:
 
-![Tharun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tharun-r1705&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tharun-r1705&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharun-r1705&layout=compact&theme=radical)
